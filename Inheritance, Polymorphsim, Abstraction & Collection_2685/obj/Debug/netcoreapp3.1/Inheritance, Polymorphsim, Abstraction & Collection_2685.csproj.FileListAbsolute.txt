@@ -1,0 +1,13 @@
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.exe
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.deps.json
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.runtimeconfig.json
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.runtimeconfig.dev.json
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.dll
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\bin\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.pdb
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.csprojAssemblyReference.cache
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.csproj.CoreCompileInputs.cache
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.AssemblyInfoInputs.cache
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.AssemblyInfo.cs
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.dll
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.pdb
+D:\Baru\Tugas8\Inheritance, Polymorphsim, Abstraction & Collection_2685\obj\Debug\netcoreapp3.1\Inheritance, Polymorphsim, Abstraction & Collection_2685.genruntimeconfig.cache
